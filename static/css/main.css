@@ -1,0 +1,36 @@
+
+td {
+    border: 5px solid aliceblue;
+    height: 5rem;
+    width: 5rem;
+    text-align: center;
+}
+
+.ttt-container {
+    width: 100%;
+    display: flex;   
+}
+.cell-symbol {
+    font-size: 70px;
+    margin: 0px;
+}
+.ttt-button {
+    height: 5rem;
+    width: 5rem;
+    background-color: transparent;
+    border: 0px;
+}
+.turn {
+    font-size: 4;
+}
+.win {
+    font-size: 6;
+    margin: 10px;
+}
+.play-again-button {
+    height: 5;
+    width: 9;
+    font-size: 1.7;
+    background-color: #252227;
+    color: aliceblue;
+}
